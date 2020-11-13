@@ -1,0 +1,24 @@
+item {
+  id: 1
+  name: 'Camera'
+}
+
+item {
+  id: 2
+  name: 'Children'
+}
+
+item {
+  id: 3
+  name: 'Road work'
+}
+
+item {
+  id: 4
+  name: 'Stop'
+}
+
+item {
+  id: 5
+  name: 'Traffic light'
+}
